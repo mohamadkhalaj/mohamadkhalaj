@@ -1,4 +1,4 @@
-<h1 align="center">Hello every one, My name is MohammadMahdi Khalaj</h1>
+<h1 align="center">Hi, I'm MohammadMahdi Khalaj</h1>
 <h3 align="center">A passionate Python/Django Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadkhalaj&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadkhalaj" /> </p>
